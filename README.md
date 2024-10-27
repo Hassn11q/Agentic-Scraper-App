@@ -1,6 +1,6 @@
 # Agentic Scraper 🕷️
 
-Agentic Scraper is a web scraper designed to extract product information from websites using AgentQL and Playwright, storing the results in CSV and JSON formats for easy data analysis.
+Agentic Scraper is a web scraper designed to extract information from websites using AgentQL and Playwright, storing the results in CSV and JSON formats for easy data analysis.
 
 
 ## Features
